@@ -6,6 +6,7 @@
     <?php
       echo "AMIK Mahaputra";
       echo "Kelas    : 22 MI A";
+      echo "Kelas    : Bimbang";
     ?>
   </body>
 </html>
